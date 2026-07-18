@@ -1,0 +1,19 @@
+__pycache__/
+*.py[cod]
+.venv/
+
+# Extracted media and generated subtitle artifacts
+*_audio.wav
+*_aligned.json
+*_translations.json
+*.zh.srt
+*.en.srt
+*.bilingual.srt
+*_软字幕.mp4
+*_硬字幕双语.mp4
+*_检查帧/
+
+# Local editor and OS files
+.vscode/
+.idea/
+.DS_Store
